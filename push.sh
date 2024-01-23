@@ -1,5 +1,5 @@
 git config --global user.name "iosonoumberto"
-git config --global user.password "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"
+git config --global user.password "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"
 git config --global credential.helper store
 
 git add .
