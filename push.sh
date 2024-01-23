@@ -1,6 +1,6 @@
 git config --global user.name "iosonoumberto"
-git config --global user.password "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"
-git config credential.helper store
+git config --global user.password "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"
+git config --global credential.helper store
 
 git add .
 git commit -m "$(date)"
